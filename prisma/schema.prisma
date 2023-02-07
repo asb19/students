@@ -14,7 +14,4 @@ model Student {
   id   Int @id @default(autoincrement())
   name String 
   age  Int
-  mark1 Int
-  mark2 Int
-  mark3 Int
 }
